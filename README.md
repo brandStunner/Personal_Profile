@@ -8,5 +8,7 @@ I'm a Software Engineer, Content Creator, and Community Engineer who currently w
 **Here's a quick summary about me**:
 
 😊 I used to criticise poor web apps and design, but now I criticise with compansion, and building to avoid being criticised!
+
 📫 Building on old stacks, learning new ones
+
 💙 Mere mortals who switches between "I'm Super Genius" and "I know nothing afterall" based on code manipulations
