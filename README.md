@@ -6,3 +6,7 @@ I create technical content (on my [LinkedIn](https://www.linkedin.com/in/rkbrand
 I'm a Software Engineer, Content Creator, and Community Engineer who currently works as a Associate Frontend Developer at Freelance(https://amalitech.org). I'm passionate about sharing knowledge, documentation, web engineering, Jamstack, e-commerce, and others. I create technical content (on my [LinkedIn] https://www.linkedin.com/in/rkbrandful/), build useful [open-source projects](https://github.com/brandStunner), speak at some meetups/conferences, build technical communities...
 
 **Here's a quick summary about me**:
+
+😊 I used to criticise poor web apps and design, but now I criticise with compansion, and building to avoid being criticised!
+📫 Building on old stacks, learning new ones
+💙 Mere mortals who switches between "I'm Super Genius" and "I know nothing afterall" based on code manipulations
