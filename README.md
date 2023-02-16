@@ -4,7 +4,8 @@ I'm a Frontedn Developer, Data Analyst, and Graphics Designer who currently work
 I create technical content (on my [LinkedIn](https://www.linkedin.com/in/rkbrandful/),  build useful [open-source projects](https://github.com/brandStunner), speak at some meetups/conferences...
 **Here's a quick summary about me**:
 😊 I used to criticise poor web apps and design, but now I criticise with compansion, and building to avoid being criticised! 
-I accidentally fell into an analytics role, filling in the gap using excel, and ended up building useful insight and engineering data for analysis. Now stuck in that loop.
+I accidentally fell into an analytics role, filling in the gap using excel, and ended up building useful insight and engineering data for analysis with Python, SQL(MySQL, MSSQL), PowerBI and Azure. Now stuck in that loop.
+Used to be bias towards the popular JavaScript or Python debate, now I enjoy both knowing how powerful both are in different phases of development 😎
 
 📫 Building on old stacks, learning new ones
 
